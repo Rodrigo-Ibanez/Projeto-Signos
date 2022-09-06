@@ -1,0 +1,15 @@
+C:\Users\gmkis\Documents\ProjetoSignos\bin\Debug\net6.0\ProjetoSignos.exe
+C:\Users\gmkis\Documents\ProjetoSignos\bin\Debug\net6.0\ProjetoSignos.deps.json
+C:\Users\gmkis\Documents\ProjetoSignos\bin\Debug\net6.0\ProjetoSignos.runtimeconfig.json
+C:\Users\gmkis\Documents\ProjetoSignos\bin\Debug\net6.0\ProjetoSignos.dll
+C:\Users\gmkis\Documents\ProjetoSignos\bin\Debug\net6.0\ProjetoSignos.pdb
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.csproj.AssemblyReference.cache
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.AssemblyInfoInputs.cache
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.AssemblyInfo.cs
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.csproj.CoreCompileInputs.cache
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.dll
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\refint\ProjetoSignos.dll
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.pdb
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ProjetoSignos.genruntimeconfig.cache
+C:\Users\gmkis\Documents\ProjetoSignos\obj\Debug\net6.0\ref\ProjetoSignos.dll
